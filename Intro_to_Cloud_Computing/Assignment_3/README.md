@@ -1,1 +1,3 @@
-# Task Description \n Implement simple Deduplication Algorithm
+# Task Description
+
+Implement simple Deduplication Algorithm
